@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {D5DCE266-13E8-4583-A318-F3C19212754C}
+database: master
+path: /sitecore/templates/MediaFramework/MyYoutubeVideos/MyYoutubeVideos Video
+parent: {3480301A-3F46-4873-B273-1BD64CAF9F11}
+name: MyYoutubeVideos Video
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+
+----field----
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
+content-length: 38
+
+{9D564116-B2C8-49B4-BB76-51CFA232BDE2}
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 30
+
+Multimedia/16x16/new_video.png
+----version----
+language: en
+version: 1
+revision: 06233621-074b-4fe7-b8fa-26d5f32780c5
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140618T215259
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+06233621-074b-4fe7-b8fa-26d5f32780c5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140619T174253:635387965735864485
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
